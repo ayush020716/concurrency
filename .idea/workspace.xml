@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd7a9f73-45b2-4c34-b69f-0a88d2000a95" name="Changes" comment="" />
+    <list default="true" id="bd7a9f73-45b2-4c34-b69f-0a88d2000a95" name="Changes" comment="create deadlock using 2 threads in 2 threadPools, created using ThreadPoolExecutor class." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +22,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2RY9QhLUZDiZLpVadqgeVa9PPgq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,7 +35,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -74,11 +80,23 @@
       <option name="presentableId" value="Default" />
       <updated>1687416136242</updated>
       <workItem from="1687416136903" duration="134000" />
-      <workItem from="1687416279667" duration="1336000" />
+      <workItem from="1687416279667" duration="1836000" />
     </task>
+    <task id="LOCAL-00001" summary="create deadlock using 2 threads in 2 threadPools, created using ThreadPoolExecutor class.">
+      <created>1687418136541</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687418136541</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create deadlock using 2 threads in 2 threadPools, created using ThreadPoolExecutor class." />
+    <option name="LAST_COMMIT_MESSAGE" value="create deadlock using 2 threads in 2 threadPools, created using ThreadPoolExecutor class." />
   </component>
 </project>
